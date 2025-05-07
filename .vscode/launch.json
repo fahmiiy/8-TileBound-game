@@ -1,0 +1,71 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "PuzzleGame5",
+            "request": "launch",
+            "mainClass": "PuzzleGame5",
+            "projectName": "project game_49281bd6"
+        },
+        {
+            "type": "java",
+            "name": "PuzzleGame4",
+            "request": "launch",
+            "mainClass": "PuzzleGame4",
+            "projectName": "project game_49281bd6"
+        },
+        {
+            "type": "java",
+            "name": "PuzzleGame3",
+            "request": "launch",
+            "mainClass": "PuzzleGame3",
+            "projectName": "project game_49281bd6"
+        },
+        {
+            "type": "java",
+            "name": "PuzzleGame2",
+            "request": "launch",
+            "mainClass": "PuzzleGame2",
+            "projectName": "project game_49281bd6"
+        },
+        {
+            "type": "java",
+            "name": "PuzzleGame1",
+            "request": "launch",
+            "mainClass": "PuzzleGame1",
+            "projectName": "project game_49281bd6"
+        },
+        {
+            "type": "java",
+            "name": "PuzzleGame",
+            "request": "launch",
+            "mainClass": "PuzzleGame",
+            "projectName": "project game_49281bd6"
+        },
+        {
+            "type": "java",
+            "name": "Puzzle",
+            "request": "launch",
+            "mainClass": "Puzzle",
+            "projectName": "project game_49281bd6"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "EightPuzzle",
+            "request": "launch",
+            "mainClass": "EightPuzzle",
+            "projectName": "project game_49281bd6",
+            "vmArgs": "--module-path \"C:/Program Files/Java/javafx-sdk-24/lib\" --add-modules javafx.controls,javafx.fxml"
+        }
+    ]
+}
